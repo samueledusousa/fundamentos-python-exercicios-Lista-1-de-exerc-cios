@@ -1,7 +1,6 @@
 Fundamentos de Linguagem Python - Básico
 
 📘 Sobre o projeto
-
 Este repositório contém a Lista 1 de Exercícios do curso “Fundamentos de Linguagem Python - Do Básico a Aplicações de IA”.
 O objetivo é praticar os principais conceitos da linguagem Python, desde comandos básicos até a aplicação em pequenos desafios lógicos.
 
