@@ -1,4 +1,5 @@
 Fundamentos de Linguagem Python - Básico
+
 📘 Sobre o projeto
 
 Este repositório contém a Lista 1 de Exercícios do curso “Fundamentos de Linguagem Python - Do Básico a Aplicações de IA”.
